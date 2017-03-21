@@ -1,5 +1,5 @@
 {
-  "name": "karma-chrome-launcher",
+  "name": "karma-headless-chrome-launcher",
   "version": "2.0.0",
   "description": "A Karma plugin. Launcher for Chrome and Chrome Canary.",
   "main": "index.js",
@@ -61,6 +61,7 @@
     "Timo Tijhof <krinklemail@gmail.com>",
     "Vincent Voyer <vincent.voyer@algolia.com>",
     "Florian-R <florian.r.dev@gmail.com>",
-    "Joe Doyle <valdain@gmail.com>"
+    "Joe Doyle <valdain@gmail.com>",
+    "Darryl Pogue <darryl@dpogue.ca>"
   ]
 }
